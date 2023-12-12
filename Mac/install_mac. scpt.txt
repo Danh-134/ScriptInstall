@@ -1,0 +1,37 @@
+#!/bin/bash
+
+# Installation de Visual Studio Code
+brew install --cask visual-studio-code
+
+# Installation de Git Bash (Git est généralement préinstallé)
+brew install git
+
+# Installation de IntelliJ IDEA (Community Edition)
+brew install --cask intellij-idea-ce
+
+# Installation de Docker
+brew install --cask docker
+
+# Installation de Kubernetes (kubectl)
+brew install kubectl
+
+# Installation de Vagrant
+brew install --cask vagrant
+
+# Installation de VirtualBox
+brew install --cask virtualbox
+
+# Installation de Java 8
+brew install openjdk@8
+
+# Installation de Java 17
+brew install openjdk
+
+# Installation de DBeaver
+brew install --cask dbeaver-community
+
+# Installation de Postman
+brew install --cask postman
+
+# Installation de Google Chrome
+brew install --cask google-chrome
